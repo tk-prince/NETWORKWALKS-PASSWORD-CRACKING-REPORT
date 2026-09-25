@@ -26,12 +26,7 @@ Cracking Process: The extracted hashes were supplied to the Networkwalks Passwor
 
 ## Results
 The dictionary attacks recovered the passwords for all three target PDF files and enabled the associated flags to be captured.
-### Target 1
-Extracted Hash: $pdf$4*4*128*-1028*1*16*ca7f72f...
-Cracked Password: good-luck
-Captured Flag: nw{cybersecurity_flag_captured_2608}
-
-### Evidence
+### Target 1 Evidence
 #### Johnny result
 <img width="960" height="564" alt="johnny1" src="https://github.com/user-attachments/assets/b7e8e10e-8186-49c4-9f3d-c3b9782800f4" />
 
@@ -42,11 +37,7 @@ Captured Flag: nw{cybersecurity_flag_captured_2608}
 <img width="251" height="345" alt="flag1" src="https://github.com/user-attachments/assets/5e723c1b-4afd-47a2-88ac-55aaa5a83572" />
 
 
-### Target 2
-Extracted Hash: $pdf$4*4*128*-1028*1*16*0853f2c...
-Cracked Password: password1
-Captured Flag: nw{networkwalks_persistence_jtr_270521}
-### Evidence
+### Target 2 Evidence
 #### Johnny result
 <img width="960" height="564" alt="johnny2" src="https://github.com/user-attachments/assets/6a7294c8-eb2a-473d-be06-aa668e21fb70" />
 
@@ -57,11 +48,7 @@ Captured Flag: nw{networkwalks_persistence_jtr_270521}
 <img width="357" height="494" alt="flag2" src="https://github.com/user-attachments/assets/732d58ef-d8f3-4671-87db-26d21da51369" />
 
 
-### Target 3
-Extracted Hash: $pdf$4*4*128*-1028*1*16*34eb542...
-Cracked Password: 1qaz2wsx
-Captured Flag: nw{networkwalks_flag_260821_1}
-### Evidence
+### Target 3 Evidence
 #### Johnny result
 <img width="960" height="564" alt="johnny3" src="https://github.com/user-attachments/assets/0fef6076-e746-4d09-8132-7ce749e1d4b7" />
 
@@ -93,5 +80,5 @@ The exercises demonstrated that predictable passwords such as password1 and 1qaz
 This report documents a controlled training exercise performed against designated lab files. Password-recovery and hash-cracking techniques should only be applied to systems, files, and accounts for which you have explicit authorization.
 
 Project: PDF Hash Cracking Analysis
-Training: Networkwalks Internship
+Training: Networkwalks Cybersecurity Internship
 Author: Tawiah Prince Kodjo

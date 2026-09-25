@@ -80,5 +80,7 @@ The exercises demonstrated that predictable passwords such as password1 and 1qaz
 This report documents a controlled training exercise performed against designated lab files. Password-recovery and hash-cracking techniques should only be applied to systems, files, and accounts for which you have explicit authorization.
 
 Project: PDF Hash Cracking Analysis
+
 Training: Networkwalks Cybersecurity Internship
+
 Author: Tawiah Prince Kodjo
